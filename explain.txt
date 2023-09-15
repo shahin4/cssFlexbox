@@ -1,0 +1,3 @@
+css float muloto imag er por word wrap korar jonno esece ba use hoi kintu amra sob kkhetre seta use kori tai somossa hoi
+tai etodin amra float use korlei ekh teke sudhu flexbox use korbo
+float er ekta sunirdisto place ace sekhanei float use korbo 
